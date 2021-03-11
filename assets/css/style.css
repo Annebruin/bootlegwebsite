@@ -321,7 +321,7 @@ html, body {
 
 .section-services:before {
     content: '';
-    background: url(../img/bookofmormon.jpg) no-repeat fixed left / cover;
+    background: url(../img/phantom-bg.jpg) no-repeat fixed left / cover;
     width: 100%;
     height: 400px; 
     position: absolute;
